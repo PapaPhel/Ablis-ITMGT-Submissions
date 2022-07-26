@@ -1,0 +1,12 @@
+Go to Account
+username:admin
+password:admin
+
+Business Problem:
+A local coffee shop named "Blended" located here in our 
+province, Bayombong, Nueva Vizcaya, has been experiencing inventory problems. With
+me being friends with the owner of the said coffee shop, I thought that it would be a
+perfect way to solve their inventory problem by creating a software that would help the workers or
+the manager of Blended in storing the data of their inventory. 
+
+**Also include/download the pythontut file that serves as the database.**
